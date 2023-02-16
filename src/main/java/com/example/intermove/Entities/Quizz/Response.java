@@ -1,4 +1,4 @@
-package com.example.intermove.Entities;
+package com.example.intermove.Entities.Quizz;
 
 import javax.persistence.*;
 

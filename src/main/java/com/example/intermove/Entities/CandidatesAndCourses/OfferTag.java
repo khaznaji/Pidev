@@ -1,4 +1,4 @@
-package com.example.intermove.Entities;
+package com.example.intermove.Entities.CandidatesAndCourses;
 
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;

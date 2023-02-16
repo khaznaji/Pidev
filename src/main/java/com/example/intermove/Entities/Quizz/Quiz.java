@@ -1,4 +1,7 @@
-package com.example.intermove.Entities;
+package com.example.intermove.Entities.Quizz;
+
+import com.example.intermove.Entities.Domain;
+import com.example.intermove.Entities.Quizz.EtatQ;
 
 import javax.persistence.*;
 

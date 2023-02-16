@@ -1,4 +1,4 @@
-package com.example.intermove.Entities;
+package com.example.intermove.Entities.User;
 
 public enum Role {
     User , Admin

@@ -1,4 +1,4 @@
-package com.example.intermove.Entities;
+package com.example.intermove.Entities.Accomodation;
 
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;

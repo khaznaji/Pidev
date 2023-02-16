@@ -1,4 +1,6 @@
-package com.example.intermove.Entities;
+package com.example.intermove.Entities.Offer;
+
+import com.example.intermove.Entities.Domain;
 
 import javax.persistence.*;
 import java.util.Date;

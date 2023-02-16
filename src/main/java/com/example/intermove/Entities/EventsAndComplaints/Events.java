@@ -1,6 +1,5 @@
-package com.example.intermove.Entities;
+package com.example.intermove.Entities.EventsAndComplaints;
 
-import com.fasterxml.jackson.annotation.JsonIgnore;
 import lombok.*;
 
 import javax.persistence.*;

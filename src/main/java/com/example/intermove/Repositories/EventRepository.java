@@ -1,6 +1,6 @@
 package com.example.intermove.Repositories;
 
-import com.example.intermove.Entities.Events;
+import com.example.intermove.Entities.EventsAndComplaints.Events;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;
