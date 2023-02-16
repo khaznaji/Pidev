@@ -9,7 +9,7 @@ public class Candidacy {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Integer id ;
+    private Integer idC ;
     private Integer idEtudiant ;
     private Integer idUniversite;
     private Date Delai;
