@@ -9,10 +9,10 @@ public class Post implements Serializable {
     @Id
     @GeneratedValue(strategy= GenerationType.IDENTITY)
     private int postID;
-    private String Post;
+    private String post;
     private String postdescription;
     private String postimage;
     @Temporal(TemporalType.DATE)
-    private Date Created_at;
+    private Date created_at;
 
 }

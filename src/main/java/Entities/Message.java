@@ -8,7 +8,7 @@ public class Message {
     @Id
     @GeneratedValue(strategy= GenerationType.IDENTITY)
     private int messageID ;
-    private String Content;
+    private String content;
     @Temporal(TemporalType.DATE)
     private Date sent_at;
 
